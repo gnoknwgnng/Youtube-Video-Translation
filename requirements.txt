@@ -30,3 +30,6 @@ openai-whisper
 
 # Gdown for downloading Wav2Lip model
 gdown
+
+TTS
+
