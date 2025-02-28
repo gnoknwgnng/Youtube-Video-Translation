@@ -1,35 +1,12 @@
-# Streamlit for web UI
 streamlit
-
-# YouTube video downloading
 yt-dlp
-
-# Google Cloud Speech-to-Text API
 google-cloud-speech
-
-# Google Translate API
 googletrans==4.0.0-rc1
-
-# Coqui TTS for Text-to-Speech
-coqui-tts
-
-# FFmpeg Python wrapper (requires FFmpeg in packages.txt)
-ffmpeg-python
-
-# OpenCV for video processing
-opencv-python
-
-# NumPy for calculations
-numpy
-
-# PyTorch (Required by Coqui TTS and Wav2Lip)
-torch
-
-# Whisper (Optional: alternative Speech-to-Text model)
-openai-whisper
-
-# Gdown for downloading Wav2Lip model
-gdown
-
 TTS
-
+ffmpeg-python
+opencv-python
+numpy
+torch
+openai-whisper
+gdown
+audio2video
